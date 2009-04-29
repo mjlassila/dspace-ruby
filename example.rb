@@ -1,4 +1,5 @@
-require 'lib/dspace/config'
+require 'rubygems'
+require 'dspace-ruby'
 require 'pp'
 
 opts = Dspace::Config.load('example.config')

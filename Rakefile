@@ -5,7 +5,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "dspace-ruby"
-    gem.summary = %Q{TODO}
+    gem.summary = %Q{Collection of tools for working with a DSpace repository in Ruby.}
     gem.email = "nathan@fixler.org"
     gem.homepage = "http://github.com/fixlr/dspace-ruby"
     gem.authors = ["Nathan Fixler"]
