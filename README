@@ -1,6 +1,0 @@
-Dspace::Config class that can be used to parse the data from a 
-DSpace (www.dspace.org) configuration file to be used within a Ruby script
-so that you do not have to duplicate server configuration values outside the
-main configuration file.
-
-See example file(s) and specs for usage.
