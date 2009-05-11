@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{dspace-ruby}
-  s.version = "0.1.0"
+  s.version = "0.1.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Nathan Fixler"]
-  s.date = %q{2009-04-29}
+  s.date = %q{2009-05-11}
   s.email = %q{nathan@fixler.org}
   s.extra_rdoc_files = [
     "LICENSE",
@@ -17,13 +17,13 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION.yml",
+    "lib/dspace-ruby.rb",
     "lib/dspace/active_record.rb",
     "lib/dspace/active_record/collection.rb",
     "lib/dspace/active_record/community.rb",
     "lib/dspace/active_record/handle.rb",
     "lib/dspace/active_record/item.rb",
     "lib/dspace/config.rb",
-    "lib/dspace_ruby.rb",
     "test/dspace_config_test.rb",
     "test/test_helper.rb"
   ]
